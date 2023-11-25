@@ -1,7 +1,5 @@
-# Disney Plus Clone Readme
+# Disney+ Clone Readme
+A Disney+ clone built in React. Skeleton app which contains only the UI
 
-## Description
--This is the ReactJS Disney Plus Clone.
-
-## Build it today!
--To build this project just run npm run start
+## How to build?
+To build this project just run `npm run start`
